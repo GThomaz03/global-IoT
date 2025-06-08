@@ -92,9 +92,9 @@ sequenceDiagram
 
 ## Imagens
 
-| Dashboard                           | Fluxo Node-RED                      |
-| ----------------------------------- | ----------------------------------- |
-| ![Dashboard](imagens/dashboard.png) | ![Fluxo](imagens/fluxo_nodered.png) |
+| Componentes                       | Dashboard                           | Fluxo Node-RED                      |
+|-----------------------------------| ----------------------------------- | ----------------------------------- |
+| ![Componentes](imagens/esp32.png) | ![Dashboard](imagens/dashboard.png) | ![Fluxo](imagens/fluxo_nodered.png) |
 
 ## Conclusão
 
