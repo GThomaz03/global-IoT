@@ -20,8 +20,10 @@ Este projeto implementa um sistema de monitoramento baseado em **ESP32**, que co
 projeto-monitoramento-iot/
 ├── imagens/
 │   ├── dashboard.png
+│   ├── esp32.png
 │   └── fluxo-nodered.png
 ├── esp32/
+│   ├── diagram.json.png
 │   └── codigo_esp32.ino
 ├── nodered/
 │   └── fluxo_nodered.json
