@@ -75,7 +75,6 @@ sequenceDiagram
     ESP32->>MQTT Broker: Publica dados (esp32/nivel_agua, esp32/chuva, esp32/emergencia)
     MQTT Broker->>Node-RED: Repassa os dados
     Node-RED->>Dashboard: Exibe em tempo real
-    Node-RED->>ESP32: Aciona buzzer em caso de alerta
 ```
 
 ## Testes
