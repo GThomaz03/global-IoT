@@ -1,5 +1,9 @@
 # Sistema de Monitoramento com ESP32 e Node-RED via MQTT
 
+RM557886 - Eduardo Guilherme Dias
+RM558637 - Gabriel Alves Thomaz
+RM557652 - Luiz Sadao Kamada
+
 ## Descrição do Projeto
 
 Este projeto implementa um sistema de monitoramento baseado em **ESP32**, que coleta dados de sensores (sensor de nível de água, sensor de chuva e botão de emergência) e os envia via protocolo **MQTT** para um **servidor Node-RED**, que exibe as informações em tempo real através de dashboards interativos. Um buzzer é ativado em caso de nível de água crítico ou acionamento do botão de emergência.
