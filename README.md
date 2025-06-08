@@ -1,8 +1,8 @@
 # Sistema de Monitoramento com ESP32 e Node-RED via MQTT
 
-RM557886 - Eduardo Guilherme Dias
-RM558637 - Gabriel Alves Thomaz
-RM557652 - Luiz Sadao Kamada
+* RM557886 - Eduardo Guilherme Dias
+* RM558637 - Gabriel Alves Thomaz
+* RM557652 - Luiz Sadao Kamada
 
 ## Descrição do Projeto
 
